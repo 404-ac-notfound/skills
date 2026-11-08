@@ -514,7 +514,7 @@ def compose_banner_row(canvas, text, avail, profile, font_choice, glyphs,
             paste_harvested_glyph(canvas, glyphs[ch][0], cx, cy, char_size)
             glyph_src[ch] = "harvested:" + glyphs[ch][1]
         else:
-            paste_font_glyph(canvas, ch, profile["ink"],
+            paste_font_glyph(canvas, ch, font_choice, profile["ink"],
                              cx, cy, char_size * scale)
             glyph_src.setdefault(ch, "font:" + font_choice.label)
     row_bottom = cy + char_size / 2
