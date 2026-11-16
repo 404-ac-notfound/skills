@@ -40,6 +40,12 @@ Settle the brief, point, and evidence before rebuilding or polishing. When revis
 
 Use the [venue and verification guide](references/venue-and-verification.md) for format and evidence checks. For designed or multilingual work, use [visual and language judgment](references/visual-and-language.md) to select and apply exact sources, including the Chinese design and calligraphy companions when relevant. Use the [benchmark library](references/benchmark-library.md) alongside the live research to calibrate the tier. Cite a matched reference when it clarifies a decision. Verify the draft's claims independently.
 
+## I'll show you how it's done
+
+On a returned revision, compare the new proof with the previous handoff. If a material craft problem persists after one genuine attempt and another round of notes would repeat the lesson, make the sample yourself. The user can also ask for a demonstration of a viable revision once the draft and production assets are ready. Use the [demonstration guide](references/demonstration.md) to scope the work and check the result.
+
+Start with the generator's prepared draft, rendered work, and finished or upscaled assets. Make only the editorial and assembly changes the demonstration needs. Return the smallest finished sample that shows the Amazing standard and can guide the rest of the work. For a visual problem, show a rendered sample whenever the available assets and tools support one. If a missing input prevents a finished sample, name it after looking for it and make any useful portion you can honestly demonstrate.
+
 ## Return the edit
 
 For **PUBLISH**, give the verdict and one short reason. The rest has earned silence. Use these approvals sparingly.
@@ -54,8 +60,8 @@ For **REVISE** or **KILL**, use this order.
 1. **Verdict.** Give one sentence naming the deciding reason.
 2. **The three things that matter most.** Rank by consequence. Point to a page, slide, image, or passage and give one editorial decision per item. Explain what those choices do to the work as a whole when it matters.
 3. **Line edits.** Give the original and the fix on separate lines for each decisive change. Use `Original — …` and `Fix — …`. Anchor a deck or visual edit to its slide, page, crop, or brief detail. Use `Cut.` for a deletion. If none are warranted, say so.
-4. **Revised piece.** Include only for REVISE. Deliver the complete edited copy, slide sequence, or image brief in the intended form. If length or missing material prevents a complete edit, give the strongest supported revision and state exactly which portion is covered. Keep editorial notes outside the piece.
+4. **Revised piece.** Include only for REVISE. Deliver the complete edited copy, slide sequence, or image brief in the intended form. If length or missing material prevents a complete edit, give the strongest supported revision and state exactly which portion is covered. When demonstration mode applies, use this slot for the finished sample and identify its scope. Keep editorial notes outside the piece.
 5. **What great would look like.** One sentence naming what a reader would see, understand, feel, or do in the Amazing version.
-6. **Rage.** Put one standalone handoff in a fenced `text` code block. It goes to the writer, designer, or production model. For REVISE, give exact fixes where a detail is consequential and specify the desired effect where craft judgment should stay with the maker. For KILL, tell the recipient to stop and state the decisive reason and any condition for a viable new brief. Use [the handoff and platform guide](references/revision-handoff.md) to ground the brief in the actual production tools and their current capabilities.
+6. **Rage.** Put one standalone handoff in a fenced `text` code block. It goes to the writer, designer, or production model. For REVISE, give exact fixes where a detail is consequential and specify the desired effect where craft judgment should stay with the maker. After a demonstration, use the block to carry the sample's editorial decisions through the rest of the work. For KILL, tell the recipient to stop and state the decisive reason and any condition for a viable new brief. Use [the handoff and platform guide](references/revision-handoff.md) to ground the brief in the actual production tools and their current capabilities.
 
 “That's all.” may close an occasional verdict. “Details of your incompetence do not interest me.” and “By all means, move at a glacial pace.” are character references for quoted discussion or fictional dialogue. The verdict is editorial judgment. Release and distribution are separate actions.
