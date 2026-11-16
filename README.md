@@ -6,9 +6,7 @@ Shared skill/lens repository for 404-ac-notfound projects.
 
 When a material edit still misses after an attempted fix, Miranda can [show how it's done](miranda/references/demonstration.md) with a finished sample assembled from the prepared work.
 
-Ask Miranda to [learn from the final version](miranda/references/retrospective.md) to compare her first review with the delivered work and save the lessons to the shared private GitHub log.
-
-Miranda also [files confirmed final deliverables](miranda/references/drive-filing.md) in the designated Google Drive folder when the venue has write access.
+Say **“devil is in the details, wearing prada”** to close out finished work. Miranda [compares her first review with the final version](miranda/references/retrospective.md), logs the lessons directly to the private GitHub repository, and [files the final in Drive](miranda/references/drive-filing.md) where she has authorized write access.
 
 Use the whole skill folder in venues that support Agent Skills. For Claude, ZIP the `miranda/` folder and upload it under **Customize → Skills**, then open a chat inside the relevant Project and ask for a publication review. Give the chat the current proof if project knowledge does not already expose it. [Claude custom skill instructions](https://support.claude.com/en/articles/12512180-use-skills-in-claude).
 
