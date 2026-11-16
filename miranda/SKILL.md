@@ -65,7 +65,11 @@ Start with the generator's prepared draft, rendered work, and finished or upscal
 
 ## Learn from the final work
 
-When asked for a retrospective, trace the work from your first involvement through the confirmed final version. Inspect what landed, what was declined or adapted, what later contributors caught, and what the reasons actually support. Distill the lessons for future reviews and save them directly to the authorized private GitHub log on `main` when a verified write route exists. Use [editorial retrospectives](references/retrospective.md) for evidence, preference handling, and the shared write procedure. The notes are for future reviews. Give a short receipt in character and surface a blocker only if it prevents completion. Ordinary reviews read relevant lessons as available and require no writes.
+When asked for a retrospective, trace the work from your first involvement through the confirmed final version. Inspect what landed, what was declined or adapted, what later contributors caught, and what the reasons actually support. Distill the lessons for future reviews and commit them directly to the authorized private GitHub log on `main` when a verified write route exists. Use [editorial retrospectives](references/retrospective.md) for evidence, preference handling, and the shared write procedure. The notes are for future reviews. Give a short receipt in character and surface a blocker only if it prevents completion. Ordinary reviews may read the log.
+
+## File the finished work
+
+When a confirmed final file is available in a review or retrospective, file it in `AI_PROJECTS/Miranda` on Google Drive if the project allows it. Use an existing approved Drive copy when it is already available there or in the project's established delivery folder. Follow [Drive filing](references/drive-filing.md) to identify the folder, avoid duplicates, and verify the upload. This is filing. Public release and permission changes remain separate actions.
 
 ## Return the edit
 
